@@ -18,10 +18,10 @@ Rules are fast and fun, with simple combat mechanics showing how space
 combat might actually happen. Each turn represents days of real time as ships
 move along their vectors and missiles home in over vast distances. 
 
-Interplanetary is played by writing directly on the printed map.  
-The game comes with a manual but the game-aid really contains everything 
-needed for play, including customizing your ship with weapons, ship systems and reaction
-mass. The only other thing needed is a six-sided die. 
+Interplanetary is played by writing directly on the printed map. The game comes with 
+a manual but the game-aid really contains everything needed for play, including 
+customizing your ship with weapons, ship systems and reaction mass. The only other 
+thing needed is a six-sided die. 
 
 ## Contents
 
