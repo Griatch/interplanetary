@@ -18,7 +18,7 @@ the game-aid contains everything needed for play, including the
 outfitting of different ships with weapons, ship systems and reaction
 mass.
 
-# Contents: 
+## Contents
 
 
 The repo contains binary versions of the manual, the game aid and
@@ -31,9 +31,9 @@ Source files sits in src/. To compile the manual you need LaTeX whereas the game
 creted in Inkscape and the map using GIMP. 
 
 
-# Credits:
+## Credits
 
 The movement system is borrowed from the long out-of-print game
 *Triplanetary* (these days owned by Steve Jackson games). Apart 
 from the concept of movement no other resources or game systems are used 
-from that game though.
+from that game.
