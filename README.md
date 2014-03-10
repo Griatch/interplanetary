@@ -3,9 +3,9 @@ Interplanetary
 
 ![Jupiter passage](src/img/passage.png) 
 
-This is a full space combat board game that I have been having a lot
-of fun with playing with my friends. The gameplay is fast and easy to 
-learn yet tries to portray realistic space combat using
+This is a full space combat board game that I created and which I 
+have been having a lot of fun refining and playing with my friends. 
+The gameplay is fast and easy to learn yet tries to portray realistic space combat using
 believable space ships on the Inner solar system scale. 
 
 Interplanetary sports what is probably one of the most fluid Newtonian 
