@@ -1,7 +1,9 @@
 Interplanetary
 ==============
 
-This is the work files for a space combat board game. It plays
+![Jupiter passage](src/img/passage.png) 
+
+This is a full space combat board game. It plays
 with realistic space ships on the Inner solar system scale. 
 
 Interplanetary emulates space combat using what is probably the most realistic Newtonian 
@@ -16,7 +18,7 @@ Interplanetary is played by printing the map and the game aids and
 writing directly on the printed map.  The game comes with a manual but
 the game-aid contains everything needed for play, including the
 outfitting of different ships with weapons, ship systems and reaction
-mass.
+mass. The only other thing needed is a six-sided die. 
 
 ## Contents
 
