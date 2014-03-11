@@ -14,15 +14,15 @@ movement systems you can portray on a hex-grid in 2D, and it's really
 quite easy to learn. For this reason it could probably work quite well 
 also as an educational tool for kids learning about space and gravity. 
 
-The combat mechanics are simple and models believable weapon systems. 
-Each turn represents days of real time as ships move along their vectors, 
+The combat mechanics are simple and model believable weapon systems. 
+Each turn represents days of real time as ships move along their trajectories, 
 missiles home in over vast distances and guns try to track that impossibly
 small spot in the sky. 
 
 Interplanetary is played by drawing directly on the printed map, making it 
 very portable. The game comes with a manual but the game-aid contains everything 
 needed for play, including customizing your ship with weapons, boosters and various 
-bonus systems systems.
+bonus systems.
 
 ## Contents
 
