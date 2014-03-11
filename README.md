@@ -27,10 +27,10 @@ bonus systems systems.
 ## Contents
 
 
-The repository contains binary versions of the manual, the game aid and
-the map. The map and gaim aids are supposed to be printed. Each player and ship in the game gets
-one game aid. The map is best printed as large as possible, it has A4 proportions 
-but can be printed at least to A3 without any problems. Only other thing needed is a six-sided die. 
+The repository contains binary versions of the manual, the game-aid and
+the map. The map and game-aids are supposed to be printed as each player and ship in the game gets
+one game-aid. The map is best printed as large as possible, it has A4 proportions 
+but can be printed to at least A3 without any problems. The only other thing needed is a six-sided die. 
 
 Source files for creating everything is in src/. To compile the manual you need LaTeX whereas the gameaid is 
 created in Inkscape and the map using GIMP. 
