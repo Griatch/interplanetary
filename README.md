@@ -50,7 +50,7 @@ created in Inkscape and the map using GIMP.
 
 
 ## 参考 Credits
-星际的移动系统借鉴了GDW的长期绝版游戏 [Triplanetary]（http://www.sjgames.com/triplan/）。现在，该游戏的许可证属于 Steve Jackson Games 。除了运动的有关概念，星际不使用 Triplanetary 的其他资源。
+星际的移动系统借鉴了 GDW 的长期绝版游戏 [Triplanetary](http://www.sjgames.com/triplan/)。现在，该游戏的许可证属于 Steve Jackson Games 。除了运动的有关概念，星际不使用 Triplanetary 的其他资源。
 
 The movement system of Interplanetary is borrowed from the long out-of-print game
 [Triplanetary](http://www.sjgames.com/triplan/) by GDW. These days the license 
